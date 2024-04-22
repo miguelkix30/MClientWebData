@@ -1,9 +1,19 @@
-Hola, {"placeholder":"playername"}!
+Hola {"placeholder":"playername"},
+espero que te lo estés pasando bien
 
-Te doy la bienvenida a lo que podrías llamar tu perdición. 
-A través de este canal de noticias podrás informarte de los 
-aumentos de dificultad que se aplicarán dentro del servidor.
-Te deseo suerte en tu supervivencia
+Estos son los cambios de dificultad que se aplicarán en el
+día 3:
+- Ahora, todos los mobs pacificos serán agresivos y atacarán
+a cualquier jugador cercano. (También los bebes...)
+- Se han añadido apocalipsis zombies que ocurrirán
+cada cierto tiempo y durarán aproximadamente 10m
+- Si no te has dado cuenta ya, algunas vacas
+esconden sorpresas (En el sentido malo).
+Si te acercas mucho a ellas podrás desatar lo que podrías 
+considerar como una vida menos...
+
+Estos son los pequeñitos cambios que aumentas la dificultad
+del día 3
 
 Besitos, 
 Miguelki
