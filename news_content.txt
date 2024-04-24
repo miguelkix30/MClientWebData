@@ -1,19 +1,15 @@
 Hola {"placeholder":"playername"},
-espero que te lo estés pasando bien
+espero que lo estes pasando mal.
 
 Estos son los cambios de dificultad que se aplicarán en el
-día 3:
-- Ahora, todos los mobs pacificos serán agresivos y atacarán
-a cualquier jugador cercano. (También los bebes...)
-- Se han añadido apocalipsis zombies que ocurrirán
-cada cierto tiempo y durarán aproximadamente 10m
-- Si no te has dado cuenta ya, algunas vacas
-esconden sorpresas (En el sentido malo).
-Si te acercas mucho a ellas podrás desatar lo que podrías 
-considerar como una vida menos...
+día 6:
+- Nuevos mobs con apariciones random
+- Te gusta tu casa? Pues ya te puede ir NO gustando.
+últimamente las placas tectonicas estan graciosas y tienden
+a provocar accidentes... En resumen, desastres naturales.
 
 Estos son los pequeñitos cambios que aumentas la dificultad
-del día 3
+del día 6
 
-Besitos, 
+Besitos y abracitos, 
 Miguelki
