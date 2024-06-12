@@ -2,4 +2,5 @@ Hola {"placeholder":"playername"}.
 
 Bienvenido a servidor de Creata 4!
 
-Aquí econtrarás todas las novedades, cambios y avisos sobre el servidor.
+Aquí econtrarás todas las novedades, cambios y avisos sobre el 
+servidor.
