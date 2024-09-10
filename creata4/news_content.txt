@@ -1,6 +1,9 @@
-Hola {"placeholder":"playername"}.
+Bienvenido de vuelta {"placeholder":"playername"}!
 
-Bienvenido a servidor de Creata 4!
+Estas son las actualizaciones de Creata 4:
 
-Aquí econtrarás todas las novedades, cambios y avisos sobre el 
-servidor.
+- Se ha añadido el mod de la electricidad para create
+- Se ha añadido el mod de Chisel
+- Se ha añadido el mod de OpenComputers
+- Se ha añadido el mod que te permitirá grabar discos
+con música de youtube para utilizar con la jukebox.
